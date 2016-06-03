@@ -18,14 +18,14 @@ hits *enter*, the browser contacts the DNS server. Domain Name Servers (DNS) are
 
 
 
-HTTP and CSS:
+##HTTP and CSS:
 
 The browser and the server communicate using hypertext transfer protocol (HTTP).  HTTP defines how messages are formatted and transmitted, and what actions Web servers and browsers should take in response to various commands. When web browsers contact servers, they’re asking to be sent pages built with Hypertext Mark-up Language (HTML). Browsers interpret those pages and display them on your computer.
 
 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a mark-up language such as HTTP. In web browsers it is used to set the visual style of web-pages. CSS dictates the layout, fonts, and colours of a web-page.
 
-Structure of a web browser:
+##Structure of a web browser:
 
 1. User Interface - The user interface (UI) is the visual part through which a user interacts with the computer. Some of the common browser user interface elements are - Address bar for inserting URL, back and forward buttons, bookmarking options, refresh and stop buttons and home button for taking you to your home page.
 
@@ -53,7 +53,7 @@ Structure of a web browser:
 
 
 
-Rendering Engine
+##Rendering Engine
 
 
 The rendering engine is responsible for displaying the requested content (Rendering). The rendering engine will start getting the contents of the requested document from the networking layer. The content is usually gotten in 8 kilobyte packages. The rendering engine will start parsing (analysing) the HTML document and convert elements to DOM nodes in a tree called the "content tree". 
@@ -75,7 +75,7 @@ All this is a gradual process. For better user experience, the render engine wil
 
 
 
-Plug-Ins
+##Plug-Ins
 
 
 Sometimes, home pages contain links to files the web browser can’t play or display, such as sound or animation files. In that case, you need a plug-in or a helper application. You configure your web browser or operating system to use the helper application or plug-in whenever it encounters a sound, animation, or other type of file the browser can’t run or play.
@@ -85,7 +85,7 @@ Sometimes, home pages contain links to files the web browser can’t play or dis
 
 
 
-Sources
+##Sources
 
 http://ptgmedia.pearsoncmg.com/images/9780789736260/samplechapter/0789736268_Sample_Chapter_18.pdf
 
