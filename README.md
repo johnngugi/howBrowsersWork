@@ -1,7 +1,7 @@
 # howBrowsersWork
 
 **Repo Link**
-https://github.com/johnngugi/African-Short-storie-Stories
+https://github.com/johnngugi/howBrowsersWork
 
 **Project Details** An explanation of how browsers work
 
